@@ -30,7 +30,7 @@ d.fgonzalez@udc.es
 ### International Research Stays
 - Instituto Superior Técnico, Lisbon, Portugal. Supervised by André F. T. Martins. 1st July 2014 - 17th August 2014.
 - Uppsala University, Sweden.  Supervised by Joakim Nivre. 4th April 2013 - 19th May 2013.
-- INRIA (Institut nacional de Recherche en Informatique et Automatique), Paris, France. Supervised by Eric Villemonte De La Clergerie . 1st November 2009 - 20th December 2009.
+- INRIA (Institut nacional de Recherche en Informatique et Automatique), Paris, France. Supervised by Eric Villemonte De La Clergerie. 1st November 2009 - 20th December 2009.
 
 ### Academic Services
 - Reviewer for Transactions of the Association for Computational Linguistics (TACL).

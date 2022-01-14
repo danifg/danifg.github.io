@@ -1,6 +1,6 @@
 ### Daniel Fernández-González
 #### Postdoctoral Researcher at [FASTPARSE project](http://fastparse.grupolys.org/)
-[LyS Research group](http://www.grupolys.org). Departamento de Ciencias de la Computación y Tecnologías de la Información. Campus de Elviña, s/n 15071 A Coruña.
+[LyS Research Group](http://www.grupolys.org). Departamento de Ciencias de la Computación y Tecnologías de la Información. Campus de Elviña, s/n 15071 A Coruña.
 
 d.fgonzalez@udc.es
 

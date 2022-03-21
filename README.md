@@ -7,6 +7,8 @@ d.fgonzalez@udc.es
 [Google Scholar](https://scholar.google.es/citations?user=kMQ_epIAAAAJ&hl)
 
 ### Main Publications
+- Daniel Fernández-González and Carlos Gómez-Rodríguez, Discontinuous Grammar as a Foreign Language. [arXiv preprint](https://arxiv.org/pdf/2110.10431.pdf)
+- Daniel Fernández-González and Carlos Gómez-Rodríguez, Dependency Parsing with Bottom-up Hierarchical Pointer Networks. [arXiv preprint](https://arxiv.org/pdf/2105.09611.pdf)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, Multitask Pointer Network for Multi-Representational Parsing, Knowledge-Based Systems, 236. 2022. ISSN 0950-7051. DOI: [10.1016/j.knosys.2021.107760](https://doi.org/10.1016/j.knosys.2021.107760). [[bibtex]](http://www.grupolys.org/~cgomezr/bib/FerGomKBS2022.bib)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, Reducing Discontinuous to Continuous Parsing with Pointer Network Reordering, EMNLP 2021. The Conference on Empirical Methods in Natural Language Processing. Proceedings of the Conference, pp. 10570-10578, Online and Punta Cana, Dominican Republic, 2021. ISBN 978-1-955917-09-4. DOI: [10.18653/v1/2021.emnlp-main.825](https://doi.org/10.18653/v1/2021.emnlp-main.825). [[bibtex]](http://www.grupolys.org/~cgomezr/bib/FerGomEMNLP2021.bib)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, Transition-based Semantic Dependency Parsing with Pointer Networks, ACL 2020. The 58th Annual Meeting of the Association for Computational Linguistics. Proceedings of the Conference, pp. 7035-7046, Seattle, WA, USA (Online), 2020. ISBN 978-1-952148-25-5. DOI: [10.18653/v1/2020.acl-main.629](https://doi.org/10.18653/v1/2020.acl-main.629). [[bibtex]](http://www.grupolys.org/~cgomezr/bib/FerGomACL2020a.bib)

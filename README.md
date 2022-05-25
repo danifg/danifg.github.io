@@ -7,6 +7,7 @@ d.fgonzalez@udc.es
 [Google Scholar](https://scholar.google.es/citations?user=kMQ_epIAAAAJ&hl)
 
 ### Main Publications
+- Daniel Fernández-González, Transition-based Semantic Role Labeling with Pointer Networks. [arXiv preprint](https://arxiv.org/pdf/2205.10023.pdf)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, Discontinuous Grammar as a Foreign Language. [arXiv preprint](https://arxiv.org/pdf/2110.10431.pdf)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, Dependency Parsing with Bottom-up Hierarchical Pointer Networks. [arXiv preprint](https://arxiv.org/pdf/2105.09611.pdf)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, Multitask Pointer Network for Multi-Representational Parsing, Knowledge-Based Systems, 236. 2022. ISSN 0950-7051. DOI: [10.1016/j.knosys.2021.107760](https://doi.org/10.1016/j.knosys.2021.107760). [[bibtex]](http://www.grupolys.org/~cgomezr/bib/FerGomKBS2022.bib)

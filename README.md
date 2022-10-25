@@ -38,7 +38,7 @@
 
 ### Academic Services
 - Reviewer for Transactions of the Association for Computational Linguistics (TACL).
-- Member of the committee in the “tagging, chunking, syntax and parsing” track for: NAACL 2021, EACL 2021, EMNLP 2021, ACL 2021, EMNLP 2020, ACL 2020, AACL 2020, AAAI 2020, COLING 2020, EMNLP 2019, EMNLP 2018, EMNLP 2017, ACL 2016, EMNLP 2016, EMNLP 2015. 
+- Member of the committee in the “tagging, chunking, syntax and parsing” track for: EMNLP 2022, AACL-IJCNLP 2022, ACL 2022, NAACL 2021, EACL 2021, EMNLP 2021, ACL 2021, EMNLP 2020, ACL 2020, AACL 2020, AAAI 2020, COLING 2020, EMNLP 2019, EMNLP 2018, EMNLP 2017, ACL 2016, EMNLP 2016, EMNLP 2015. 
 - Reviewer for CICLING 2013, CICLING 2014.
 - Reviewer for SEPLN 2012, SEPLN 2013.
 - Reviewer for LATA 2012.

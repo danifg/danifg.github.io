@@ -7,6 +7,7 @@
 [Google Scholar](https://scholar.google.es/citations?user=kMQ_epIAAAAJ&hl)
 
 ### Main Publications
+- Daniel Fernández-González, Shift-Reduce Task-Oriented Semantic Parsing with Stack-Transformers. [arXiv preprint](https://arxiv.org/pdf/2210.11984.pdf)
 - Daniel Fernández-González, Transition-based Semantic Role Labeling with Pointer Networks. [arXiv preprint](https://arxiv.org/pdf/2205.10023.pdf)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, Discontinuous Grammar as a Foreign Language. [arXiv preprint](https://arxiv.org/pdf/2110.10431.pdf)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, Dependency Parsing with Bottom-up Hierarchical Pointer Networks. [arXiv preprint](https://arxiv.org/pdf/2105.09611.pdf)
@@ -43,6 +44,7 @@
 - Reviewer for LATA 2012.
 
 ### Teaching Experience
+- Computational Logic subject of the Computer Science degree. Universidade de Vigo. 90 hours. 2022-2023.
 - Empirical Methods for Natural Language Processing subject of the Master degree in Artificial Intelligence Research. AEPIA-UIMP (Asociación Española para la Inteligencia Artificial – Universidad Internacional Menéndez Pelayo).  Teaching Assistant. 2020-2021.
 - TRAINING FOR CA ACADEMIC STAFF: "BLENDED LEARNING, LINGUISTICS, NATURAL LANGUAGE PROCESSING AND QUALITY ASSESSMENT". Universidade da Coruña. 3 hours. 2017-2018.
 - Automata Theory and Formal Languages subject of the Computer Science degree. Universidade de Vigo. 60 hours. 2014-2015.

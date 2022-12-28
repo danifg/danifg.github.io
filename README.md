@@ -8,7 +8,7 @@
 
 ### Main Publications
 - Daniel Fernández-González, **Shift-Reduce Task-Oriented Semantic Parsing with Stack-Transformers**. [arXiv preprint](https://arxiv.org/pdf/2210.11984.pdf)
-- Daniel Fernández-González and Carlos Gómez-Rodríguez, **Discontinuous Grammar as a Foreign Language**, to appear in Neurocomputing, 2023. ISSN 0925-2312. [arXiv preprint](https://arxiv.org/pdf/2110.10431.pdf)
+- Daniel Fernández-González and Carlos Gómez-Rodríguez, **Discontinuous Grammar as a Foreign Language**, Neurocomputing, 524:43-58, 2023. ISSN 0925-2312. DOI [10.1016/j.neucom.2022.12.045](https://doi.org/10.1016/j.neucom.2022.12.045). [[bibtex]](https://github.com/danifg/Disco-Seq2seq-Parser#citation)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, **Dependency Parsing with Bottom-up Hierarchical Pointer Networks**, Information Fusion, 91:494-503, 2023. ISSN 1566-2535. DOI [10.1016/j.inffus.2022.10.023](https://doi.org/10.1016/j.inffus.2022.10.023). [[bibtex]](https://github.com/danifg/BottomUp-Hierarchical-PtrNet#citation)
 - Daniel Fernández-González, **Transition-based Semantic Role Labeling with Pointer Networks**, Knowledge-Based Systems, 260:110127. 2023. ISSN 0950-7051. DOI [10.1016/j.knosys.2022.110127](https://doi.org/10.1016/j.knosys.2022.110127). [[bibtex]](https://github.com/danifg/SRLPointer#citation)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, **Multitask Pointer Network for Multi-Representational Parsing**, Knowledge-Based Systems, 236:107760. 2022. ISSN 0950-7051. DOI [10.1016/j.knosys.2021.107760](https://doi.org/10.1016/j.knosys.2021.107760). [[bibtex]](http://www.grupolys.org/~cgomezr/bib/FerGomKBS2022.bib)

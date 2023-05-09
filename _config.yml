@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: pages-themes/minimal@v0.2.0
 title: Daniel Fernández-González
 description: Universidade da Coruña / CITIC Research Center
 label: Daniel Fernández-González

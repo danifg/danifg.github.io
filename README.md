@@ -2,7 +2,7 @@
 #### Postdoctoral Researcher at [LyS Research Group](http://www.grupolys.org). 
 Departamento de Ciencias de la Computación y Tecnologías de la Información. Campus de Elviña, s/n 15071, A Coruña.
 
-[github](https://github.com/danifg)
+[Github](https://github.com/danifg)
 
 [Google Scholar](https://scholar.google.es/citations?user=kMQ_epIAAAAJ&hl)
 

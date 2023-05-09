@@ -7,6 +7,7 @@
 [Google Scholar](https://scholar.google.es/citations?user=kMQ_epIAAAAJ&hl)
 
 ### Main Publications
+- Daniel Fernández-González, **Structured Sentiment Analysis as Transition-based Dependency Parsing**. [arXiv preprint](https://arxiv.org/pdf/2210.11984.pdf)
 - Daniel Fernández-González, **Shift-Reduce Task-Oriented Semantic Parsing with Stack-Transformers**. [arXiv preprint](https://arxiv.org/pdf/2210.11984.pdf)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, **Discontinuous Grammar as a Foreign Language**, Neurocomputing, 524:43-58, 2023. ISSN 0925-2312. DOI [10.1016/j.neucom.2022.12.045](https://doi.org/10.1016/j.neucom.2022.12.045). [[bibtex]](https://github.com/danifg/Disco-Seq2seq-Parser#citation)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, **Dependency Parsing with Bottom-up Hierarchical Pointer Networks**, Information Fusion, 91:494-503, 2023. ISSN 1566-2535. DOI [10.1016/j.inffus.2022.10.023](https://doi.org/10.1016/j.inffus.2022.10.023). [[bibtex]](https://github.com/danifg/BottomUp-Hierarchical-PtrNet#citation)
@@ -38,12 +39,13 @@
 
 ### Academic Services
 - Reviewer for Transactions of the Association for Computational Linguistics (TACL).
-- Member of the committee in the “tagging, chunking, syntax and parsing” track for: EMNLP 2022, AACL-IJCNLP 2022, ACL 2022, NAACL 2021, EACL 2021, EMNLP 2021, ACL 2021, EMNLP 2020, ACL 2020, AACL 2020, AAAI 2020, COLING 2020, EMNLP 2019, EMNLP 2018, EMNLP 2017, ACL 2016, EMNLP 2016, EMNLP 2015. 
+- Member of the committee in the “tagging, chunking, syntax and parsing” track for: ACL 2023, EACL 2023, EMNLP 2022, AACL-IJCNLP 2022, ACL 2022, NAACL 2021, EACL 2021, EMNLP 2021, ACL 2021, EMNLP 2020, ACL 2020, AACL 2020, AAAI 2020, COLING 2020, EMNLP 2019, EMNLP 2018, EMNLP 2017, ACL 2016, EMNLP 2016, EMNLP 2015. 
 - Reviewer for CICLING 2013, CICLING 2014.
 - Reviewer for SEPLN 2012, SEPLN 2013.
 - Reviewer for LATA 2012.
 
 ### Teaching Experience
+- Automata Theory and Formal Languages subject of the Computer Science degree. Universidade de Vigo. 90 hours. 2022-2023.
 - Computational Logic subject of the Computer Science degree. Universidade de Vigo. 90 hours. 2022-2023.
 - Empirical Methods for Natural Language Processing subject of the Master degree in Artificial Intelligence Research. AEPIA-UIMP (Asociación Española para la Inteligencia Artificial – Universidad Internacional Menéndez Pelayo).  Teaching Assistant. 2020-2021.
 - TRAINING FOR CA ACADEMIC STAFF: "BLENDED LEARNING, LINGUISTICS, NATURAL LANGUAGE PROCESSING AND QUALITY ASSESSMENT". Universidade da Coruña. 3 hours. 2017-2018.
@@ -55,7 +57,7 @@
 - FPU Fellowship. Spanish Ministry of Education, Culture and Sport. 2011.
 - PhD Fellowship. Regional Government of Galicia. 2011 (declined).
 - Collaboration Scholarship. Universidade de Vigo. 2009.
-- Collaboration Scholarship. Regional Galician Government. 2008.
+- Collaboration Scholarship. Regional Government of Galicia. 2008.
 - Outstanding Graduate Award. Universidade de Vigo. 2011.
 - Outstanding Graduate Award. Universidade de Vigo. 2008.
 - Outstanding Graduate Award. Regional Government of Galicia. 2008.

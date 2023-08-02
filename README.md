@@ -1,6 +1,6 @@
 ### Daniel Fernández-González, Ph.D.
-#### Postdoctoral Researcher at [LyS Research Group](http://www.grupolys.org). 
-Departamento de Ciencias de la Computación y Tecnologías de la Información. Campus de Elviña, s/n 15071, A Coruña.
+#### Assistant Professor at University of Vigo. 
+Department of Computer Science, University of Vigo, Edificio Politécnico, As Lagoas s/n,32004 Ourense, Spain.
 
 [Github](https://github.com/danifg)
 

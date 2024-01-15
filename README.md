@@ -6,6 +6,8 @@ Department of Computer Science, University of Vigo, Edificio Politécnico, As La
 
 [Google Scholar](https://scholar.google.es/citations?user=kMQ_epIAAAAJ&hl)
 
+[ORCID](https://orcid.org/0000-0002-6733-2371)
+
 ### Main Publications
 - Daniel Fernández-González, **Structured Sentiment Analysis as Transition-based Dependency Parsing**. [arXiv preprint](https://arxiv.org/pdf/2305.05311.pdf)
 - Daniel Fernández-González, **Shift-Reduce Task-Oriented Semantic Parsing with Stack-Transformers**. [arXiv preprint](https://arxiv.org/pdf/2210.11984.pdf)

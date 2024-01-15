@@ -1,6 +1,6 @@
 ### Daniel Fernández-González, Ph.D.
 #### Assistant Professor at University of Vigo. 
-Department of Computer Science, University of Vigo, Edificio Politécnico, As Lagoas s/n,32004 Ourense, Spain.
+Department of Computer Science, University of Vigo, Edificio Politécnico, As Lagoas s/n, 32004 Ourense, Spain.
 
 [Github](https://github.com/danifg)
 

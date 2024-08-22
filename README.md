@@ -10,7 +10,7 @@ Department of Computer Science, University of Vigo, Edificio Politécnico, As La
 
 ### Main Publications
 - Daniel Fernández-González, **Structured Sentiment Analysis as Transition-based Dependency Parsing**. [arXiv preprint](https://arxiv.org/pdf/2305.05311.pdf)
-- Daniel Fernández-González, **Shift-Reduce Task-Oriented Semantic Parsing with Stack-Transformers**. [arXiv preprint](https://arxiv.org/pdf/2210.11984.pdf)
+- Daniel Fernández-González, **Shift-Reduce Task-Oriented Semantic Parsing with Stack-Transformers**, Cognitive Computation, 2024. ISSN 1866-9964. DOI [10.1007/s12559-024-10339-4](https://doi.org/10.1007/s12559-024-10339-4)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, **Discontinuous Grammar as a Foreign Language**, Neurocomputing, 524:43-58, 2023. ISSN 0925-2312. DOI [10.1016/j.neucom.2022.12.045](https://doi.org/10.1016/j.neucom.2022.12.045). [[bibtex]](https://github.com/danifg/Disco-Seq2seq-Parser#citation)
 - Daniel Fernández-González and Carlos Gómez-Rodríguez, **Dependency Parsing with Bottom-up Hierarchical Pointer Networks**, Information Fusion, 91:494-503, 2023. ISSN 1566-2535. DOI [10.1016/j.inffus.2022.10.023](https://doi.org/10.1016/j.inffus.2022.10.023). [[bibtex]](https://github.com/danifg/BottomUp-Hierarchical-PtrNet#citation)
 - Daniel Fernández-González, **Transition-based Semantic Role Labeling with Pointer Networks**, Knowledge-Based Systems, 260:110127. 2023. ISSN 0950-7051. DOI [10.1016/j.knosys.2022.110127](https://doi.org/10.1016/j.knosys.2022.110127). [[bibtex]](https://github.com/danifg/SRLPointer#citation)

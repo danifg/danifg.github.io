@@ -48,13 +48,13 @@ Artificial Intelligence Review, 59, 84, 2026. ISSN 1573-7462. DOI [10.1007/s1046
 - Reviewer for SEPLN 2012, SEPLN 2013.
 - Reviewer for LATA 2012.
 
-### Teaching Experience
+<!-- ### Teaching Experience
 - Automata Theory and Formal Languages subject of the Computer Science degree. Universidade de Vigo. 90 hours. 2022-2023.
 - Computational Logic subject of the Computer Science degree. Universidade de Vigo. 90 hours. 2022-2023.
 - Empirical Methods for Natural Language Processing subject of the Master degree in Artificial Intelligence Research. AEPIA-UIMP (Asociación Española para la Inteligencia Artificial – Universidad Internacional Menéndez Pelayo).  Teaching Assistant. 2020-2021.
 - TRAINING FOR CA ACADEMIC STAFF: "BLENDED LEARNING, LINGUISTICS, NATURAL LANGUAGE PROCESSING AND QUALITY ASSESSMENT". Universidade da Coruña. 3 hours. 2017-2018.
 - Automata Theory and Formal Languages subject of the Computer Science degree. Universidade de Vigo. 60 hours. 2014-2015.
-- Language Processing subject of the Computer Science degree. Universidade de Vigo. 60 hours. 2013-2014.
+- Language Processing subject of the Computer Science degree. Universidade de Vigo. 60 hours. 2013-2014.-->
 
 ### Grants and Awards
 - Outstanding Phd Award. Universidade da Coruña. 2016.

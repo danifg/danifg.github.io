@@ -9,7 +9,7 @@ Department of Computer Science, University of Vigo, Edificio Politécnico, As La
 [ORCID](https://orcid.org/0000-0002-6733-2371)
 
 ### Main Publications
-- Daniel Fernández-González and Cristina Outeiriño Cid, **Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing** [arXiv](https://arxiv.org/submit/7589100/view).
+- Daniel Fernández-González and Cristina Outeiriño Cid, **Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing** [[arXiv]](https://arxiv.org/submit/7589100/view).
 - Daniel Fernández-González, **Structured Sentiment Analysis as Transition-based Dependency Graph Parsing**, 
 Artificial Intelligence Review, 59, 84, 2026. ISSN 1573-7462. DOI [10.1007/s10462-025-11463-9](https://doi.org/10.1007/s10462-025-11463-9). [[bibtex]](https://github.com/danifg/SSAPointer#citation)
 - Daniel Fernández-González, **Shift-Reduce Task-Oriented Semantic Parsing with Stack-Transformers**, Cognitive Computation, 2024. ISSN 1866-9964. DOI [10.1007/s12559-024-10339-4](https://doi.org/10.1007/s12559-024-10339-4). [[bibtex]](https://github.com/danifg/ShiftReduce-TOP#citation)

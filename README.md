@@ -9,7 +9,7 @@ Department of Computer Science, University of Vigo, Edificio Politécnico, As La
 [ORCID](https://orcid.org/0000-0002-6733-2371)
 
 ### Main Publications
-- Santiago Fernández Lanza, Víctor Manuel Darriba Bilbao and Daniel Fernández-González, **G-vamp: Improving sequence labelling frameworks for multiword expressions identification**, Array, 101164, 2026. ISSN 2590-0056. DOI [10.1016/j.array.2026.101164](https://doi.org/10.1016/j.array.2026.101164).
+- Santiago Fernández Lanza, Víctor Manuel Darriba Bilbao and Daniel Fernández-González, **G-VAMP: Improving sequence labelling frameworks for multiword expressions identification**, Array, 101164, 2026. ISSN 2590-0056. DOI [10.1016/j.array.2026.101164](https://doi.org/10.1016/j.array.2026.101164).
 - Daniel Fernández-González and Cristina Outeiriño Cid, **Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing** [[arXiv]](https://arxiv.org/abs/2605.13373).
 - Daniel Fernández-González, **Structured Sentiment Analysis as Transition-based Dependency Graph Parsing**, 
 Artificial Intelligence Review, 59, 84, 2026. ISSN 1573-7462. DOI [10.1007/s10462-025-11463-9](https://doi.org/10.1007/s10462-025-11463-9). [[bibtex]](https://github.com/danifg/SSAPointer#citation)
